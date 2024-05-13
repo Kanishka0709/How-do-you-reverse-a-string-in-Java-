@@ -4,7 +4,7 @@ public class Main{
 public static void main(String[] args){    
 String s="Kanishka";     
 int length=s.length();     
-String reverse="";      
+String reverse="";     
 for(int i=length-1;i>=0;i--)     
 {       reverse=reverse+s.charAt(i);     
 }   
